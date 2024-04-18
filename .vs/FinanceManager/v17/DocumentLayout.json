@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FinanceManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\periodtoboolconverterformonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\periodtoboolconverterformonth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\financemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\financemanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\transactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\transactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\accountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\accountsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\basevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\isaveobjectchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\isaveobjectchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\modelrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\modelrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\migrations\\20211216175538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\migrations\\20211216175538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\model\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\model\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\model\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\services\\serviceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\serviceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\accountsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\accountsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\services\\chartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\chartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\transactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\core\\validationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\core\\validationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\weeksoftheyearview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\weeksoftheyearview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\transactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\transactionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\transactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\transactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\currencyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\currencyview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\categoryview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\categoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\categoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\basetransactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\basetransactionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\view\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\view\\accountview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\categoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\categoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\viewmodel\\basetransactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\viewmodel\\basetransactionsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\periodtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\periodtoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\periodtoboolconverterforweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\periodtoboolconverterforweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\periodtoboolconverterforyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\periodtoboolconverterforyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\datetimetodateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\datetimetodateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\operationtypetoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\operationtypetoboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|c:\\users\\user\\source\\repos\\financemanager\\financemanager\\converters\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A236D4C-595F-4A3B-B582-2D3D0549731D}|FinanceManager\\FinanceManager.csproj|solutionrelative:financemanager\\converters\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:56:22.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\CurrencyViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\CurrencyViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\CurrencyViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\CurrencyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:41:03.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\AccountViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\AccountViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\AccountViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:19:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeriodToBoolConverterForMonth.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForMonth.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\PeriodToBoolConverterForMonth.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForMonth.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\PeriodToBoolConverterForMonth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:35.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\BaseVM.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\BaseVM.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\BaseVM.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\BaseVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:53.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceManager.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\FinanceManager.csproj",
+              "RelativeDocumentMoniker": "FinanceManager\\FinanceManager.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\FinanceManager.csproj",
+              "RelativeToolTip": "FinanceManager\\FinanceManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T05:01:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\AccountsViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\AccountsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\AccountsViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\AccountsViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:19:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\TransactionsViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\TransactionsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\TransactionsViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\TransactionsViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:26:07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISaveObjectChanges.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ISaveObjectChanges.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\ISaveObjectChanges.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ISaveObjectChanges.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\ISaveObjectChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:16.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModelRule.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ModelRule.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\ModelRule.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ModelRule.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\ModelRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:19.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "FinanceManager\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ApplicationContext.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:06.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20211216175538_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Migrations\\20211216175538_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Migrations\\20211216175538_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Migrations\\20211216175538_InitialCreate.cs",
+              "RelativeToolTip": "FinanceManager\\Migrations\\20211216175538_InitialCreate.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:24.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Week.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Week.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Model\\Week.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Week.cs",
+              "RelativeToolTip": "FinanceManager\\Model\\Week.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:55:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Model\\Transaction.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Transaction.cs",
+              "RelativeToolTip": "FinanceManager\\Model\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:46.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Currency.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Model\\Currency.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Currency.cs",
+              "RelativeToolTip": "FinanceManager\\Model\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:53:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Model\\Account.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Account.cs",
+              "RelativeToolTip": "FinanceManager\\Model\\Account.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwDwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:26.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\ServiceConverter.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\ServiceConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\ServiceConverter.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\ServiceConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:42.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\AccountsView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\AccountsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\AccountsView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\AccountsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:22:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\Service.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:40.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChartsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\ChartsService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\ChartsService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\ChartsService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\ChartsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:39.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\DateTimeService.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Services\\DateTimeService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Services\\DateTimeService.cs",
+              "RelativeToolTip": "FinanceManager\\Services\\DateTimeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:51:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Model\\Category.cs",
+              "RelativeToolTip": "FinanceManager\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:40.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\TransactionViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\TransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\TransactionViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\TransactionViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:26:05.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeeksOfTheYearView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\WeeksOfTheYearView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\WeeksOfTheYearView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\WeeksOfTheYearView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\WeeksOfTheYearView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:24:38.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TransactionView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\TransactionView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\TransactionView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\TransactionView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\TransactionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:24:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\TransactionsView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\TransactionsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\TransactionsView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\TransactionsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:24:00.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\MainWindow.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:23:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationRules.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ValidationRules.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Core\\ValidationRules.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Core\\ValidationRules.cs",
+              "RelativeToolTip": "FinanceManager\\Core\\ValidationRules.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:18:21.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CurrencyView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CurrencyView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\CurrencyView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CurrencyView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\CurrencyView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:23:34.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CategoryView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\CategoryView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CategoryView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\CategoryView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:23:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoriesView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CategoriesView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\CategoriesView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\CategoriesView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\CategoriesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:23:17.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseTransactionsView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\BaseTransactionsView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\BaseTransactionsView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\BaseTransactionsView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\BaseTransactionsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:23:02.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountView.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\AccountView.xaml",
+              "RelativeDocumentMoniker": "FinanceManager\\View\\AccountView.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\View\\AccountView.xaml",
+              "RelativeToolTip": "FinanceManager\\View\\AccountView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T04:22:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\CategoriesViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\CategoriesViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\CategoriesViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\CategoriesViewModel.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwHQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:19:41.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseTransactionsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\BaseTransactionsViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\BaseTransactionsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\BaseTransactionsViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\BaseTransactionsViewModel.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:19:34.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PeriodToBoolConverterForYear.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForYear.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\PeriodToBoolConverterForYear.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForYear.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\PeriodToBoolConverterForYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:39.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PeriodToBoolConverterForWeek.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForWeek.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\PeriodToBoolConverterForWeek.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverterForWeek.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\PeriodToBoolConverterForWeek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:39.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PeriodToBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverter.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\PeriodToBoolConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\PeriodToBoolConverter.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\PeriodToBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:34.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OperationTypeToBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\OperationTypeToBoolConverter.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\OperationTypeToBoolConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\OperationTypeToBoolConverter.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\OperationTypeToBoolConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:36.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DateTimeToDateConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\DateTimeToDateConverter.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\DateTimeToDateConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\DateTimeToDateConverter.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\DateTimeToDateConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BoolToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\BoolToColorConverter.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\Converters\\BoolToColorConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\Converters\\BoolToColorConverter.cs",
+              "RelativeToolTip": "FinanceManager\\Converters\\BoolToColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:17:32.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
