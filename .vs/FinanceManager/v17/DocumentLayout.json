@@ -182,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 113,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -191,18 +191,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "FinanceManager\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:56:22.642Z"
             },
             {
               "$type": "Document",
@@ -264,6 +252,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-18T05:01:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceManager\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceManager\\FinanceManager\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "FinanceManager\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:56:22.642Z"
             },
             {
               "$type": "Document",
